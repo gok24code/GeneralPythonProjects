@@ -23,7 +23,7 @@
 <img src="/screeshot.png">
 
 <h3>4.Joke App</h3>
-<p>Required Librarys: os, random, time</p>
+<p>Required Librarys: os, time</p>
 <a href = "https://github.com/gok24code/GeneralPythonProjects/blob/main/Python/shdown.py">Link</a>
 
 <h3>5.Interactive Looped loveletter V1.0</h3>
