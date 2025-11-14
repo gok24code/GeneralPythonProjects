@@ -20,6 +20,7 @@
 <h3>3. Matrix Generator for Study Examples</h3>
 <p>Required Librarys: random, time</p>
 <a href = "https://github.com/gok24code/GeneralPythonProjects/blob/main/Python/matrix_generator.py">Link</a>
+<h4>Screenshots:</h4>
 <img src="/screeshot.png">
 
 <h3>4.Joke App</h3>
@@ -36,5 +37,6 @@
 
 <h3>7.UI LoveLetter HearthDrawing V1.2</h3>
 <p>Required Librarys: turtle</p>
+<h4>Screenshots:</h4>
 <a href = "https://github.com/gok24code/GeneralPythonProjects/blob/main/Python/hearthformylove.pyw">Link</a>
 <img src="/screeshot1.png">
