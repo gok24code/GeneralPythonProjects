@@ -31,7 +31,7 @@
 <a href = "https://github.com/gok24code/GeneralPythonProjects/blob/main/Python/tryin.py">Link</a>
 
 <h3>6.Interactive Love Letter That Gives Advice V1.1</h3>
-<p>Required Librarys: time</p>
+<p>Required Librarys: os, time</p>
 <a href = "https://github.com/gok24code/GeneralPythonProjects/blob/main/Python/loveletter.py">Link</a>
 
 <h3>7.UI LoveLetter HearthDrawing V1.2</h3>
