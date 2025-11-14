@@ -15,5 +15,11 @@
 <h3>4.Joke App</h3>
 <a href = "https://github.com/gok24code/GeneralPythonProjects/blob/main/Python/shdown.py">Link</a>
 
-<h3>5.Looped loveletter</h3>
+<h3>5.Interactive Looped loveletter V1.0</h3>
 <a href = "https://github.com/gok24code/GeneralPythonProjects/blob/main/Python/tryin.py">Link</a>
+
+<h3>6.Interactive Love Letter That Gives Advice V1.1</h3>
+<a href = "https://github.com/gok24code/GeneralPythonProjects/blob/main/Python/loveletter.py">Link</a>
+
+<h3>7.UI LoveLetter HearthDrawing V1.2</h3>
+<a href = "https://github.com/gok24code/GeneralPythonProjects/blob/main/Python/hearthformylove.pyw">Link</a>
