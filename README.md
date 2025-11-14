@@ -14,7 +14,7 @@
 <a href = "https://github.com/gok24code/GeneralPythonProjects/blob/main/Python/guess_the_number.py">Link</a>
 
 <h3>2.Macrometer Comparator</h3>
-<p>Required Librarys: random, time</p>
+<p>Required Librarys: no requirements.</p>
 <a href = "https://github.com/gok24code/GeneralPythonProjects/blob/main/Python/macrometer_compiler.py">Link</a>
 
 <h3>3. Matrix Generator for Study Examples</h3>
