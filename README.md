@@ -1,26 +1,40 @@
-<h1>Python Projects of Mine</h1>
+<h1>Small Scale Python Projects</h1>
 <h6>up to date</h6>
+
+<h2>Installation and Running Instructions</h2>
+<ul>
+   <li><strong>Get a source file:</strong> git clone https://github.com/gok24code/GeneralPythonProjects.git</li>
+    <li>if you dont have the requirement library the programs may not will run on your pc.</li>
+    <li>Under the all mini-project headers i dropped required librarys.</li>
+</ul>
 
 
 <h3>1.Number Generator</h3>
+<p>Required Librarys: random, time</p>
 <a href = "https://github.com/gok24code/GeneralPythonProjects/blob/main/Python/guess_the_number.py">Link</a>
 
 <h3>2.Macrometer Comparator</h3>
+<p>Required Librarys: random, time</p>
 <a href = "https://github.com/gok24code/GeneralPythonProjects/blob/main/Python/macrometer_compiler.py">Link</a>
 
 <h3>3. Matrix Generator for Study Examples</h3>
+<p>Required Librarys: random, time</p>
 <a href = "https://github.com/gok24code/GeneralPythonProjects/blob/main/Python/matrix_generator.py">Link</a>
 <img src="/screeshot.png">
 
 <h3>4.Joke App</h3>
+<p>Required Librarys: os, random, time</p>
 <a href = "https://github.com/gok24code/GeneralPythonProjects/blob/main/Python/shdown.py">Link</a>
 
 <h3>5.Interactive Looped loveletter V1.0</h3>
+<p>Required Librarys: time</p>
 <a href = "https://github.com/gok24code/GeneralPythonProjects/blob/main/Python/tryin.py">Link</a>
 
 <h3>6.Interactive Love Letter That Gives Advice V1.1</h3>
+<p>Required Librarys: time</p>
 <a href = "https://github.com/gok24code/GeneralPythonProjects/blob/main/Python/loveletter.py">Link</a>
 
 <h3>7.UI LoveLetter HearthDrawing V1.2</h3>
+<p>Required Librarys: turtle, tkinter</p>
 <a href = "https://github.com/gok24code/GeneralPythonProjects/blob/main/Python/hearthformylove.pyw">Link</a>
 <img src="/screeshot1.png">
