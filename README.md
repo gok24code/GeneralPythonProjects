@@ -35,6 +35,6 @@
 <a href = "https://github.com/gok24code/GeneralPythonProjects/blob/main/Python/loveletter.py">Link</a>
 
 <h3>7.UI LoveLetter HearthDrawing V1.2</h3>
-<p>Required Librarys: turtle, tkinter</p>
+<p>Required Librarys: turtle</p>
 <a href = "https://github.com/gok24code/GeneralPythonProjects/blob/main/Python/hearthformylove.pyw">Link</a>
 <img src="/screeshot1.png">
