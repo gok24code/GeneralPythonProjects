@@ -1,4 +1,4 @@
-<h1 style="font-style: italic">Small Scale Python Projects</h1>
+<h1>Small Scale Python Projects</h1>
 <h6>up to date</h6>
 
 <h2>Installation and Running Instructions</h2>
