@@ -1,11 +1,11 @@
 import time
 import subprocess
 
-file_path = 'C:\Software\Python\database.db'
+file_path = 'your\path\to\database.db'
 subprocess.run(['del', file_path], shell=True)  # Windows example
 #connecting to database
 import sqlite3
-basefile = 'C:\Software\Python\database.db'
+basefile = 'your\path\to\database.db'
 con = sqlite3.connect(basefile)
 cur = con.cursor()
 
