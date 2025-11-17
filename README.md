@@ -1,3 +1,9 @@
+<style>
+   *{
+      text-align: center;
+      }
+</style>
+
 <h1>Small Scale Python Projects</h1>
 <h6>up to date</h6>
 
